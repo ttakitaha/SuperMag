@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuperMag</string>
+    <string name="firstCnv">Behold! I\'m will amuse you with an amazing magic trick! </string>
+    <string name="secondCnv">I will now show you 6 cards. Pick one, and focus on that one only. Do not touch and just pick it</string>
+    <string name="thirdCnv">Focus and think about your card! With my great magic powers I will guess it!</string>
+    <string name="fourthCnv">I found it!</string>
+    <string name="fifthCnv">It\'s done! I guessed your card and removed it from the pile!</string>
+
+    <string name="firstBtn">Start</string>
+    <string name="secondBtn">I Chose</string>
+    <string name="thirdBtn">-</string>
+    <string name="fourthBtn">See Results</string>
+    <string name="fifthBtn">Try Again</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperMag</string>
+    <string name="firstCnv">Odaklan! İnanılmaz bir sihir numarasıyla sizi şarşırtacağım!</string>
+    <string name="secondCnv">Şimdi size 6 kart göstereceğim. Birini seçin ve sadece ona odaklanın. Ona dokunmayın, sadece seçin.</string>
+    <string name="thirdCnv">Odaklanın ve kartınızı düşünün! Onu tahmin edeceğim!</string>
+    <string name="fourthCnv">Buldum!</string>
+    <string name="fifthCnv">Bitti! Kartınızı tahmin ettim ve desteden çıkardım!</string>
+    <string name="firstBtn">Başla</string>
+    <string name="secondBtn">Seçtim</string>
+    <string name="thirdBtn">-</string>
+    <string name="fourthBtn">Sonucu Gör</string>
+    <string name="fifthBtn">Tekrar Dene</string>
+</resources>
